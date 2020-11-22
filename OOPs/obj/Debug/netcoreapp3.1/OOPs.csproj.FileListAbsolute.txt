@@ -1,0 +1,13 @@
+C:\Users\chinm\Documents\Projects\C#\OOPs\bin\Debug\netcoreapp3.1\OOPs.exe
+C:\Users\chinm\Documents\Projects\C#\OOPs\bin\Debug\netcoreapp3.1\OOPs.deps.json
+C:\Users\chinm\Documents\Projects\C#\OOPs\bin\Debug\netcoreapp3.1\OOPs.runtimeconfig.json
+C:\Users\chinm\Documents\Projects\C#\OOPs\bin\Debug\netcoreapp3.1\OOPs.runtimeconfig.dev.json
+C:\Users\chinm\Documents\Projects\C#\OOPs\bin\Debug\netcoreapp3.1\OOPs.dll
+C:\Users\chinm\Documents\Projects\C#\OOPs\bin\Debug\netcoreapp3.1\OOPs.pdb
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.csprojAssemblyReference.cache
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.AssemblyInfoInputs.cache
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.AssemblyInfo.cs
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.csproj.CoreCompileInputs.cache
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.dll
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.pdb
+C:\Users\chinm\Documents\Projects\C#\OOPs\obj\Debug\netcoreapp3.1\OOPs.genruntimeconfig.cache

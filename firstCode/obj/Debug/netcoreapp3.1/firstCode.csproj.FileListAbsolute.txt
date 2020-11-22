@@ -1,0 +1,13 @@
+C:\Users\chinm\Documents\Projects\C#\firstCode\bin\Debug\netcoreapp3.1\firstCode.exe
+C:\Users\chinm\Documents\Projects\C#\firstCode\bin\Debug\netcoreapp3.1\firstCode.deps.json
+C:\Users\chinm\Documents\Projects\C#\firstCode\bin\Debug\netcoreapp3.1\firstCode.runtimeconfig.json
+C:\Users\chinm\Documents\Projects\C#\firstCode\bin\Debug\netcoreapp3.1\firstCode.runtimeconfig.dev.json
+C:\Users\chinm\Documents\Projects\C#\firstCode\bin\Debug\netcoreapp3.1\firstCode.dll
+C:\Users\chinm\Documents\Projects\C#\firstCode\bin\Debug\netcoreapp3.1\firstCode.pdb
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.csprojAssemblyReference.cache
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.AssemblyInfoInputs.cache
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.AssemblyInfo.cs
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.csproj.CoreCompileInputs.cache
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.dll
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.pdb
+C:\Users\chinm\Documents\Projects\C#\firstCode\obj\Debug\netcoreapp3.1\firstCode.genruntimeconfig.cache
